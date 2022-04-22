@@ -1,0 +1,12 @@
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/bin/Debug/net6.0/Week8Rubrica.Core.deps.json
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/bin/Debug/net6.0/Week8Rubrica.Core.dll
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/bin/Debug/net6.0/Week8Rubrica.Core.pdb
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/obj/Debug/net6.0/Week8Rubrica.Core.csproj.AssemblyReference.cache
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/obj/Debug/net6.0/Week8Rubrica.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/obj/Debug/net6.0/Week8Rubrica.Core.AssemblyInfoInputs.cache
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/obj/Debug/net6.0/Week8Rubrica.Core.AssemblyInfo.cs
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/obj/Debug/net6.0/Week8Rubrica.Core.csproj.CoreCompileInputs.cache
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/obj/Debug/net6.0/Week8Rubrica.Core.dll
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/obj/Debug/net6.0/refint/Week8Rubrica.Core.dll
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/obj/Debug/net6.0/Week8Rubrica.Core.pdb
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.Core/obj/Debug/net6.0/ref/Week8Rubrica.Core.dll

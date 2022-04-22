@@ -1,0 +1,15 @@
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/bin/Debug/net6.0/Week8Rubrica.RepositoryMOCK.deps.json
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/bin/Debug/net6.0/Week8Rubrica.RepositoryMOCK.dll
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/bin/Debug/net6.0/Week8Rubrica.RepositoryMOCK.pdb
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/bin/Debug/net6.0/Week8Rubrica.Core.dll
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/bin/Debug/net6.0/Week8Rubrica.Core.pdb
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/obj/Debug/net6.0/Week8Rubrica.RepositoryMOCK.csproj.AssemblyReference.cache
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/obj/Debug/net6.0/Week8Rubrica.RepositoryMOCK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/obj/Debug/net6.0/Week8Rubrica.RepositoryMOCK.AssemblyInfoInputs.cache
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/obj/Debug/net6.0/Week8Rubrica.RepositoryMOCK.AssemblyInfo.cs
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/obj/Debug/net6.0/Week8Rubrica.RepositoryMOCK.csproj.CoreCompileInputs.cache
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/obj/Debug/net6.0/Week8Rubrica.RepositoryMOCK.csproj.CopyComplete
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/obj/Debug/net6.0/Week8Rubrica.RepositoryMOCK.dll
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/obj/Debug/net6.0/refint/Week8Rubrica.RepositoryMOCK.dll
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/obj/Debug/net6.0/Week8Rubrica.RepositoryMOCK.pdb
+/Users/lindaaa/Projects/Week8_Test/Week8Rubrica.AccessData/obj/Debug/net6.0/ref/Week8Rubrica.RepositoryMOCK.dll

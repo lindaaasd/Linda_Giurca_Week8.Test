@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Week8Rubrica.Presentation/1.0.0": {
+        "dependencies": {
+          "Week8Rubrica.Core": "1.0.0",
+          "Week8Rubrica.RepositoryMOCK": "1.0.0"
+        },
+        "runtime": {
+          "Week8Rubrica.Presentation.dll": {}
+        }
+      },
+      "Week8Rubrica.Core/1.0.0": {
+        "runtime": {
+          "Week8Rubrica.Core.dll": {}
+        }
+      },
+      "Week8Rubrica.RepositoryMOCK/1.0.0": {
+        "dependencies": {
+          "Week8Rubrica.Core": "1.0.0"
+        },
+        "runtime": {
+          "Week8Rubrica.RepositoryMOCK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week8Rubrica.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Week8Rubrica.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Week8Rubrica.RepositoryMOCK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
